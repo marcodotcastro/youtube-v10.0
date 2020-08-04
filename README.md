@@ -38,7 +38,7 @@
     - Executar Hello World
       - php hello.php
     
-- Java
+ - Java
    - Instalar por Apt
      - sudo apt install openjdk-8-jdk
    - Executar Hello World
