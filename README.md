@@ -25,7 +25,7 @@
      - php hello.php
    - Instalar por Manager Version, https://phpbrew.github.io/phpbrew/
      - Pré-configuração
-       - sudo apt install php-bz2 libxml2-dev libbz2-dev libxslt-dev libzip-dev
+       - sudo apt install php-bz2 libxml2-dev libbz2-dev libxslt-dev libzip-dev libssl-dev libreadline-dev
      - Instalar manager
        - curl -L -O https://github.com/phpbrew/phpbrew/releases/latest/download/phpbrew.phar
        - chmod +x phpbrew.phar
