@@ -1,5 +1,5 @@
 <?php 
-    require_once "bubble.php";
+    require_once "Bubble.php";
 
     $bubble = new Bubble(); 
 
